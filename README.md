@@ -14,13 +14,13 @@
  <br>
  
  ###  what I’m currently learning
- - I am learning ReactJS, and I am looking to pick up VueJs in the future.
- - Recently I got myself into learning web testing.
+ - Learning advanced Performance optimization techniques for react apps.
+ - Recently I got myself into learning nextJs.
  <br>
  
  ### What I do now
- - Just to mention something- The world is backwards. You need experience to get a job, but you need a job to get experience, and no one is willing to hire someone without experience - at least that's the situation where I'm from.
-
+ - Working as a front-end web developer with react framework.
+ 
 <!---
 TasneemFand/TasneemFand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

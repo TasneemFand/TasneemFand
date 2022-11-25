@@ -14,8 +14,8 @@
  <br>
  
  ###  what I’m currently learning
- - Learning advanced Performance optimization techniques for react apps.
- - Recently I got myself into learning nextJs.
+ - Learning advanced Performance optimization techniques for react apps, authentication, SEO strategies.
+ - Recently I got myself into learning nextJs, unit testing.
  <br>
  
  ### What I do now

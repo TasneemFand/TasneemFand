@@ -14,12 +14,12 @@
  <br>
  
  ###  what I’m currently learning
- - Learning advanced Performance optimization techniques for react apps, authentication, SEO strategies.
- - Recently I got myself into learning nextJs, unit testing.
+ - Learning authentication in react apps.
+ - Recently I got myself into learning nextJs.
  <br>
  
  ### What I do now
- - Working as a front-end web developer with react framework.
+ - Working as a front-end web developer with reactjs library.
  
 <!---
 TasneemFand/TasneemFand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

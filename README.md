@@ -13,11 +13,6 @@
 
  <br>
  
- ###  what I’m currently learning
- - Learning authentication in react apps.
- - Recently I got myself into learning nextJs.
- <br>
- 
  ### What I do now
  - Working as a front-end web developer with reactjs library.
  

@@ -13,9 +13,6 @@
 
  <br>
  
- ### What I do now
- - Working as web developer.
- 
 <!---
 TasneemFand/TasneemFand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
